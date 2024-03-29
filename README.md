@@ -1,5 +1,6 @@
 # turbo-broccoli
 
+This was created as a Senior Project by Fletcher Li, Samuel Cook, Alexis Corona, Xochitl Villalvazo, and Joel Hottinger
 How to use the Turbo Brocoli webapp:
 
 1) Ensure that you have all the necessary dependencies installed. The required dependencies can be found in the file: "projectEnvironmentSetup.bat"
@@ -38,3 +39,7 @@ The options available include:
     - For quicker testing it is recommended this is set to *True*, for full tests keep this false
 - The per-device training batch size
 - The per-device eval batch size
+
+
+
+Original Repo - https://github.com/fxl271/turbo-broccoli
